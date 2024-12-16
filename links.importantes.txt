@@ -1,0 +1,20 @@
+- link do colab: 
+
+https://colab.research.google.com/drive/1aMICD19jt2kV08z7pHlrgV99VFrQHtst?authuser=1#scrollTo=22gCbOzUjwEK
+
+- link do canal no youtube (Onde contém material assíncrono para suporte, dúvidas e mais)
+
+https://youtube.com/@minicurso_pythonjogos?si=iqjkrGYYEklKDI2a
+
+- link do site para ajudar a aprender online: 
+
+https://futurecoder.io/course/#toc
+
+- link do formulário de dúvidas: 
+
+https://docs.google.com/forms/d/e/1FAIpQLSdY30ThUVQix7snZohrq2YpTfB032GHfPGo4IuY2Ha8K0DnSg/viewform?usp=sf_link
+
+- link do tutorial de python:
+
+https://docs.python.org/pt-br/3/tutorial/
+
